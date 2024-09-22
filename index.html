@@ -14,6 +14,11 @@
     xhr.open("get","https://jsonplaceholder.typicode.com/users");
     xhr.send();
     // alert("welcome");
+
+    xhr.onreadystatechange=function(){
+        console.log(xhr.readyState);
+        
+    }
 </script>    
     
 </body>
