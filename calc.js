@@ -1,15 +1,15 @@
-function sum(a,b){
+export function sum(a,b){
     return a+b;
 }
 
-function mul(a,b){
+export function mul(a,b){
     return a*b;
 }
 
-function duv(a,b){
+export function duv(a,b){
     return a/b;
 }
 
-function sub(a,b){
+export function sub(a,b){
     return a-b;
 }
