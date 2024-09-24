@@ -7,7 +7,13 @@
 </head>
 <body>
     <script type="module">
-        import {sum} from './calc.js';
+        import {sum,mul} from './calc.js';
+        console.log(sum(10,10))
+        console.log(mul(10,5))
+        import * as Calculation from './calc.js';
+        console.log(Calculation.sum(10,2))
+        console.log(Calculation.mul(10,3))
+
 
     </script>
 </body>
