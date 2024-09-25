@@ -6,7 +6,7 @@ export function mul(a,b){
     return a*b;
 }
 
-export function duv(a,b){
+export function div(a,b){
     return a/b;
 }
 
