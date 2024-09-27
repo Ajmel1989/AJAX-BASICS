@@ -6,7 +6,7 @@ function sum(arr){
     return a
 }
 
-let details = [{Name : "SABITH",Salary : 20000},{Name : "NIHALA",Salary : 20000},
+let details = [{Name : "AJMEL",Salary : 450000},{Name : "SABITH",Salary : 20000},{Name : "NIHALA",Salary : 20000},
     {Name : "ABHISHEK",Salary : 20000},{Name : "FIDHA",Salary : 30000},
     {Name : "ANFAR",Salary : 40000},{Name : "SALAH",Salary : 30000},{Name : "APARNA",Salary : 20000}]
 
