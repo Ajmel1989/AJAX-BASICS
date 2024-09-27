@@ -12,4 +12,4 @@ let details = [{Name : "SABITH",Salary : 20000},{Name : "NIHALA",Salary : 20000}
 
 
 let result = sum(details)
-console.log(sum(details));
+console.log(result);
